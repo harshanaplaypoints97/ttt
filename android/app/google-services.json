@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "776988442030",
+    "project_id": "rd-eye---blind-app",
+    "storage_bucket": "rd-eye---blind-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776988442030:android:a3b04687f8e7e8f425dc3f",
+        "android_client_info": {
+          "package_name": "com.bairaha.thirdeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776988442030-ten36q8obmq1ltku9oosve6o9gf1pmlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXSk9mwomc11uHS842pXjpGQ6_M8md-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776988442030-ten36q8obmq1ltku9oosve6o9gf1pmlm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776988442030-0unsmdt464h01nq0vu3qj6dn031j0rrr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thirdEye"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
